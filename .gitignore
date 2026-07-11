@@ -1,0 +1,8 @@
+__pycache__/
+.venv/
+venv/
+.idea/
+.env
+data/
+embeddings/
+*.dat
